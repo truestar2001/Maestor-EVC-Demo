@@ -12,12 +12,50 @@ Emotional voice conversion (EVC) aims to modify the emotional style of speech wh
 
 ## Demo
 ### 1. Compare with Baseline Models
-| Col1 | Col2 | Col3 | Col4 | Col5 | Col6 |
-|------|------|------|------|------|------|
-| <audio controls src="audio/1-1.mp3"></audio> | <audio controls src="audio/1-2.mp3"></audio> | <audio controls src="audio/1-3.mp3"></audio> | <audio controls src="audio/1-4.mp3"></audio> | <audio controls src="audio/1-5.mp3"></audio> | <audio controls src="audio/1-6.mp3"></audio> |
-| <audio controls src="audio/2-1.mp3"></audio> | <audio controls src="audio/2-2.mp3"></audio> | <audio controls src="audio/2-3.mp3"></audio> | <audio controls src="audio/2-4.mp3"></audio> | <audio controls src="audio/2-5.mp3"></audio> | <audio controls src="audio/2-6.mp3"></audio> |
-| <audio controls src="audio/3-1.mp3"></audio> | <audio controls src="audio/3-2.mp3"></audio> | <audio controls src="audio/3-3.mp3"></audio> | <audio controls src="audio/3-4.mp3"></audio> | <audio controls src="audio/3-5.mp3"></audio> | <audio controls src="audio/3-6.mp3"></audio> |
-| <audio controls src="audio/4-1.mp3"></audio> | <audio controls src="audio/4-2.mp3"></audio> | <audio controls src="audio/4-3.mp3"></audio> | <audio controls src="audio/4-4.mp3"></audio> | <audio controls src="audio/4-5.mp3"></audio> | <audio controls src="audio/4-6.mp3"></audio> |
+<table border="1" cellspacing="5" cellpadding="5">
+  <tbody>
+    <tr>
+      <td><audio controls src="audio/1-1.mp3"></audio></td>
+      <td><audio controls src="audio/1-2.mp3"></audio></td>
+      <td><audio controls src="audio/1-3.mp3"></audio></td>
+      <td><audio controls src="audio/1-4.mp3"></audio></td>
+      <td><audio controls src="audio/1-5.mp3"></audio></td>
+      <td><audio controls src="audio/1-6.mp3"></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls src="audio/2-1.mp3"></audio></td>
+      <td><audio controls src="audio/2-2.mp3"></audio></td>
+      <td><audio controls src="audio/2-3.mp3"></audio></td>
+      <td><audio controls src="audio/2-4.mp3"></audio></td>
+      <td><audio controls src="audio/2-5.mp3"></audio></td>
+      <td><audio controls src="audio/2-6.mp3"></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls src="audio/3-1.mp3"></audio></td>
+      <td><audio controls src="audio/3-2.mp3"></audio></td>
+      <td><audio controls src="audio/3-3.mp3"></audio></td>
+      <td><audio controls src="audio/3-4.mp3"></audio></td>
+      <td><audio controls src="audio/3-5.mp3"></audio></td>
+      <td><audio controls src="audio/3-6.mp3"></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls src="audio/4-1.mp3"></audio></td>
+      <td><audio controls src="audio/4-2.mp3"></audio></td>
+      <td><audio controls src="audio/4-3.mp3"></audio></td>
+      <td><audio controls src="audio/4-4.mp3"></audio></td>
+      <td><audio controls src="audio/4-5.mp3"></audio></td>
+      <td><audio controls src="audio/4-6.mp3"></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls src="audio/5-1.mp3"></audio></td>
+      <td><audio controls src="audio/5-2.mp3"></audio></td>
+      <td><audio controls src="audio/5-3.mp3"></audio></td>
+      <td><audio controls src="audio/5-4.mp3"></audio></td>
+      <td><audio controls src="audio/5-5.mp3"></audio></td>
+      <td><audio controls src="audio/5-6.mp3"></audio></td>
+    </tr>
+  </tbody>
+</table>
 ### 2. Unseen Emotion
 ### 3. Unseen Speaker
 ### 4. Emotion reference variation with consistent content and speaker
