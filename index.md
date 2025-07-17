@@ -15,12 +15,12 @@ Emotional voice conversion (EVC) aims to modify the emotional style of speech wh
 <table>
         <thead>
             <tr>
-                <th style="width: 300px; text-align: center;"><strong>Source</strong></th>
-                <th style="width: 300px; text-align: center;"><strong>Target</strong></th>
-                <th style="width: 300px; text-align: center;"><strong>Our Converted</strong></th>
-                <th style="width: 300px; text-align: center;"><strong>FreeVC</strong></th>
-                <th style="width: 300px; text-align: center;"><strong>YourTTS</strong></th>
-                <th style="width: 300px; text-align: center;"><strong>VQMIVC</strong></th>
+                <th style="width: 300px; text-align: center;"><strong>Content</strong></th>
+                <th style="width: 300px; text-align: center;"><strong>Speaker</strong></th>
+                <th style="width: 300px; text-align: center;"><strong>Emotion</strong></th>
+                <th style="width: 300px; text-align: center;"><strong>MaestroEVC</strong></th>
+                <th style="width: 300px; text-align: center;"><strong>ZEST</strong></th>
+                <th style="width: 300px; text-align: center;"><strong>StyleVC</strong></th>
             </tr>
         </thead>
 
