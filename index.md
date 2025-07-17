@@ -17,7 +17,7 @@ Emotional voice conversion (EVC) aims to modify the emotional style of speech wh
             <tr>
               <th style="width: 16.66%; text-align: center;"><strong>Content</strong></th>
               <th style="width: 16.66%; text-align: center;"><strong>Speaker</strong></th>
-              <th style="width: 16.66%; text-align: center; border-right: 1px double lightgray;"><strong>Emotion</strong></th>
+              <th style="width: 16.66%; text-align: center; border-right: 3px double lightgray;"><strong>Emotion</strong></th>
               <th style="width: 16.66%; text-align: center;"><strong>MaestroEVC</strong></th>
               <th style="width: 16.66%; text-align: center;"><strong>ZEST</strong></th>
               <th style="width: 16.66%; text-align: center;"><strong>StyleVC</strong></th>
