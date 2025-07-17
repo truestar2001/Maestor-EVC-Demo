@@ -9,3 +9,9 @@ Emotional voice conversion (EVC) aims to modify the emotional style of speech wh
   <img src="./image/figure1.png" alt="My Logo" width="500"/>
   <img src="./image/figure2.png" alt="My Logo" width="800"/>
 </div>
+
+## Demo
+### 1. Compare with Baseline Models
+### 2. Unseen Emotion
+### 3. Unseen Speaker
+### 4. Emotion reference variation with consistent content and speaker
