@@ -11,6 +11,7 @@ Emotional voice conversion (EVC) aims to modify the emotional style of speech wh
 </div>
 
 ## Demo
+The content, speaker, and emotion reference were randomly selected, and thus each may contain different content, speakers, and emotions.
 ### 1. Compare with Baseline Models
 <table>
         <thead>
@@ -74,6 +75,7 @@ Emotional voice conversion (EVC) aims to modify the emotional style of speech wh
     </table>
    
 ### 2. Unseen Emotion
+The inference results for three emotions not observed during training (fear, disgust, and excitement) are presented.
 <table>
   <thead>
     <tr>
@@ -125,4 +127,6 @@ Emotional voice conversion (EVC) aims to modify the emotional style of speech wh
 </table>
 
 ### 3. Unseen Speaker
+The inference results for speakers not observed during training are presented.
 ### 4. Emotion reference variation with consistent content and speaker
+The inference results obtained using emotion references that exhibit different prosodic characteristics within the same emotion category.
