@@ -28,12 +28,12 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
         <tbody>
 
             <tr>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/Happy_0012_000934.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/Sad_0019_001161.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample1/Surprise_0020_001552.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/src_Happy_0012_000934.wav_spk_Sad_0019_001161.wav_emo_Surprise_0020_001552.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
 
             <tr>
