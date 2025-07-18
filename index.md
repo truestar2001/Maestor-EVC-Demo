@@ -77,6 +77,132 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
 ### 2. Unseen Emotion
 The inference results for three emotions not observed during training (fear, disgust, and excitement) are presented.
 <table>
+        <thead>
+            <tr>
+              <th style="width: 16.66%; text-align: center;"><strong>Content</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>Speaker</strong></th>
+              <th style="width: 16.66%; text-align: center; border-right: 3px double lightgray;"><strong>Emotion</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>MaestroEVC</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>ZEST</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>StyleVC</strong></th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; "><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+        </tbody>
+    </table>
+
+
+### 3. Unseen Speaker
+The inference results for speakers not observed during training are presented.
+<table>
+        <thead>
+            <tr>
+              <th style="width: 16.66%; text-align: center;"><strong>Content</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>Speaker</strong></th>
+              <th style="width: 16.66%; text-align: center; border-right: 3px double lightgray;"><strong>Emotion</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>MaestroEVC</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>ZEST</strong></th>
+              <th style="width: 16.66%; text-align: center;"><strong>StyleVC</strong></th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; "><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+
+        </tbody>
+    </table>
+### 4. Emotion reference variation with consistent content and speaker
+The inference results obtained using emotion references that exhibit different prosodic characteristics within the same emotion category.
+<table>
   <thead>
     <tr>
       <th style="width: 25%; text-align: center;"><strong>Content</strong></th>
@@ -126,7 +252,3 @@ The inference results for three emotions not observed during training (fear, dis
   </tbody>
 </table>
 
-### 3. Unseen Speaker
-The inference results for speakers not observed during training are presented.
-### 4. Emotion reference variation with consistent content and speaker
-The inference results obtained using emotion references that exhibit different prosodic characteristics within the same emotion category.
