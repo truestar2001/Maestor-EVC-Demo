@@ -32,7 +32,7 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/Sad_0019_001161.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample1/Surprise_0020_001552.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/src_Happy_0012_000934.wav_spk_Sad_0019_001161.wav_emo_Surprise_0020_001552.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/zest.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
 
@@ -41,7 +41,7 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample2/Surprise_0015_001565.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample2/Sad_0020_001310.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample2/src_Neutral_0012_000338.wav_spk_Surprise_0015_001565.wav_emo_Sad_0020_001310.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample2/zest.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
             <tr>
@@ -50,7 +50,7 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
                 <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample3/Angry_0012_000435.wav
 " controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample3/src_Surprise_0014_001746.wav_spk_Angry_0011_000612.wav_emo_Angry_0012_000435.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample3/zest.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
             <tr>
@@ -59,7 +59,7 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
                 <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample4/Neutral_0017_000326
 .wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/src_Surprise_0015_001743.wav_spk_Happy_0018_001030.wav_emo_Neutral_0017_000326.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/zest.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
             <tr>
@@ -68,7 +68,7 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
                 <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample5/Sad_0015_001295
 .wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample5/src_Angry_0019_000361.wav_spk_Neutral_0014_000246.wav_emo_Sad_0015_001295.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample5/zest.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
 
