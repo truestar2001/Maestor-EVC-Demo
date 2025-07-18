@@ -37,38 +37,38 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
             </tr>
 
             <tr>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-            </tr>
-
-            <tr>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-            </tr>
-
-            <tr>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample2/Neutral_0012_000338.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample2/Surprise_0015_001565.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample2/Sad_0020_001310.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample2/src_Neutral_0012_000338.wav_spk_Surprise_0015_001565.wav_emo_Sad_0020_001310.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
             <tr>
-                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center; "><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample3/Surprise_0014_001746.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample3/Angry_0011_000612.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample3/Angry_0012_000435.wav
+" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample3/src_Surprise_0014_001746.wav_spk_Angry_0011_000612.wav_emo_Angry_0012_000435.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/Surprise_0015_001743.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/Neutral_0017_000326.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample4/Sad_0020_001310.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/src_Surprise_0015_001743.wav_spk_Happy_0018_001030.wav_emo_Neutral_0017_000326.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+            </tr>
+            <tr>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample5/Angry_0019_000361.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample5/Neutral_0014_000246.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample5/Sad_0015_001295
+.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample5/src_Angry_0019_000361.wav_spk_Neutral_0014_000246.wav_emo_Sad_0015_001295.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample1/" controls="" preload="" style="width: 100%;"></audio></td>
             </tr>
 
         </tbody>
