@@ -86,7 +86,7 @@ The content, speaker, and emotion reference were randomly selected, and thus eac
             </tr>
             <tr>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/Surprise_0015_001743.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/Neutral_0017_000326.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/Happy_0018_001030.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center; border-right: 3px double lightgray;"><audio src="./audio/sample4/Neutral_0017_000326
 .wav" controls="" preload="" style="width: 100%;"></audio></td>
                 <td style="width: 300px; text-align: center;"><audio src="./audio/sample4/src_Surprise_0015_001743.wav_spk_Happy_0018_001030.wav_emo_Neutral_0017_000326.wav" controls="" preload="" style="width: 100%;"></audio></td>
